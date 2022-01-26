@@ -21,5 +21,6 @@ export default class ColorPicker {
 }
 
 
-// input: [[44, 43, 44], "N", "N", "N"] use for input suggestion
+// input: affects the color number input "N" to my knowing is random
+//model: users color mind api code to smart generate inputs "default" and "ui" work often check api page for more
 // 'http://colormind.io/list/' should show color ids
